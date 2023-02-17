@@ -24,9 +24,9 @@ if __name__ == "__main__":
         print('invalid input')
         exit()
     print('*'*20)
-    print(get_means(l,len(l)))
-    print(get_median(sorted(l),len(l)))
-    print(*get_mode(Counter(l)))
+    print('means: ',get_means(l,len(l)))
+    print('median: ',get_median(sorted(l),len(l)))
+    print('mode: ',*get_mode(Counter(l)))
 
 
 
