@@ -10,8 +10,8 @@ data=pd.read_csv('task5/ex.csv')
 prop_m=data.gender.value_counts()['male']/data.shape[0]
 prop_f=data.gender.value_counts()['female']/data.shape[0]
 
-# print('Proportion_of_male_is = ',round(prop_m,3))
-# print('Proportion_of_female_is = ',round(prop_f,3))
+print('Proportion_of_male_is = ',round(prop_m,3))
+print('Proportion_of_female_is = ',round(prop_f,3))
 
 
 # Admission rate 😎
