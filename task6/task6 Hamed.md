@@ -1,5 +1,5 @@
 
-Numpy is a powerful Python library for numerical computations. Here are some useful notes about Numpy methods:
+
 
 ```python
 import numpy as np
