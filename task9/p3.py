@@ -9,5 +9,4 @@ class Solution:
             a=a.split('+')[0].replace('.','')
             d[b].add(a)
 
-
         return sum([len(d[i]) for i in d])
