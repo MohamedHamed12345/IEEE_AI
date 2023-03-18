@@ -134,4 +134,12 @@ P(B) P(A|B) = P(A) P(B|A)
 _Nice and symmetrical _
 
 
-Pasted image 20230318181242.png
+
+
+![[Pasted image 20230318120552.png]]
+![[Pasted image 20230318120618.png]]
+![[Pasted image 20230318120650.png]]
+![[Pasted image 20230318120711.png]]
+![[Pasted image 20230318120728.png]]
+![[Pasted image 20230318180615.png]]
+![[Pasted image 20230318181242.png]]
