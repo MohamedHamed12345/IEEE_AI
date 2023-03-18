@@ -134,4 +134,4 @@ P(B) P(A|B) = P(A) P(B|A)
 _Nice and symmetrical _
 
 
-
+Pasted image 20230318181242.png
