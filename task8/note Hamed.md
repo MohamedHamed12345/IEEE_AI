@@ -49,3 +49,13 @@ Some important properties of the binomial distribution are:
 6.100 people You know from previous data that approximately 60% of people prefer chocolate.  calculate the probability of getting different numbers of chocolate ice cream preferences. 
 		the probability of exactly 50 people preferring chocolate    ice cream would be:
 			P(X=50) = (100 choose 50) * (0.6)^50 * (0.4)^50 ≈ 0.079 Another example is rolling a fair die 10 times and counting the number of times the number 5 comes up. This is a binomial distribution with n = 10 and p = 1/6 (since there is a 1/6 chance of rolling a 5 on any given roll). The probability of rolling exactly 2 fives would be: P(X=2) = (10 choose 2) * (1/6)^2 * (5/6)^8 ≈ 0.224
+
+
+
+![[Pasted image 20230318120552.png]]
+![[Pasted image 20230318120618.png]]
+![[Pasted image 20230318120650.png]]
+![[Pasted image 20230318120711.png]]
+![[Pasted image 20230318120728.png]]
+![[Pasted image 20230318180615.png]]
+![[Pasted image 20230318181242.png]]
