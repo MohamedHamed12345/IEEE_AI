@@ -132,11 +132,6 @@ So we can see that:
 P(B) P(A|B) = P(A) P(B|A)
 
 _Nice and symmetrical _
-![Pasted image 20230318181242](https://user-images.githubusercontent.com/117965968/226129526-5a06b597-54c1-4694-85c7-7806bc7124d6.png)
-![Pasted image 20230318180615](https://user-images.githubusercontent.com/117965968/226129527-f2b97ef9-a22f-4bc1-afe7-ab4f55303734.png)
-![Pasted image 20230318120728](https://user-images.githubusercontent.com/117965968/226129528-4a4c8d27-c833-42a3-b953-2cee6498beab.png)
-![Pasted image 20230318120711](https://user-images.githubusercontent.com/117965968/226129530-08acc5dc-7783-4ad7-8043-b2d2c2cf5826.png)
-![Pasted image 20230318120650](https://user-images.githubusercontent.com/117965968/226129532-4dd82da6-4e30-478b-b898-5f829d5866fb.png)
-![Pasted image 20230318120618](https://user-images.githubusercontent.com/117965968/226129533-d2c44822-7e4d-4099-aacf-8ae6636be53d.png)
-![Pasted image 20230318120552](https://user-images.githubusercontent.com/117965968/226129536-c182a135-adbf-49d6-acfa-6a2b2b2466db.png)
+
+
 
